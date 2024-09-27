@@ -9,3 +9,6 @@ https://github.com/lsdmtr/DOC_docker_jenkins_dep/blob/main/%E4%BA%8C%E3%80%81%E5
 
 ## 三、配置docker-compose和nginx
 https://github.com/lsdmtr/DOC_docker_jenkins_dep/blob/main/%E4%B8%89%E3%80%81%E9%85%8D%E7%BD%AEdocker-compose%E5%92%8Cnginx.md
+
+## 四、配置jenkins
+https://github.com/lsdmtr/DOC_docker_jenkins_dep/blob/main/%E5%9B%9B%E3%80%81%E9%85%8D%E7%BD%AEjenkins.md
