@@ -12,3 +12,6 @@ https://github.com/lsdmtr/DOC_docker_jenkins_dep/blob/main/3.%E9%85%8D%E7%BD%AEd
 
 ## 四、配置jenkins
 https://github.com/lsdmtr/DOC_docker_jenkins_dep/blob/main/4.%E9%85%8D%E7%BD%AEjenkins.md
+
+## 五、创建并配置工作流
+https://github.com/lsdmtr/DOC_docker_jenkins_dep/blob/main/5.%E5%88%9B%E5%BB%BA%E5%B9%B6%E9%85%8D%E7%BD%AE%E5%B7%A5%E4%BD%9C%E6%B5%81.md
